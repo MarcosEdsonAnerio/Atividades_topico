@@ -1,1 +1,5 @@
-# Atividades_topico
+Instalar dependencias:
+
+sudo apt update
+sudo apt install python3 python3-pip
+pip3 install scapy netifaces
