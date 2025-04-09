@@ -1,4 +1,4 @@
-# Advanced Port Scanner
+# Escaneador de Portas Avançado
 
 Scanner de portas avançado desenvolvido para a disciplina de Tópicos Especiais II
 
