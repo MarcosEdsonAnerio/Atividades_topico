@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Advanced Port Scanner - Versão Aprimorada
-Disciplina: Tópicos Especiais II - ADS 2025/1
-Turma: 20251.6.0206.238.1N
+Escaneador de Portsa - Versão Topzera
+Disciplina: Tópicos Especiais II - ADS 2025/7
+Turma: Sei n
 """
 
 import subprocess
@@ -19,8 +19,8 @@ import netifaces
 # Configuração inicial
 conf.verb = 0  # Remove output verboso do Scapy
 VERSION = "2.0"
-AUTHOR = "Seu Nome"
-REPO_URL = "https://github.com/seuusuario/advanced-port-scanner"
+AUTHOR = "Marcos Edson"
+REPO_URL = ""
 
 class AdvancedPortScanner:
     """Classe principal do scanner de portas avançado"""
